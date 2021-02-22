@@ -1,1 +1,1 @@
-# covidnet
+# CovidNet
